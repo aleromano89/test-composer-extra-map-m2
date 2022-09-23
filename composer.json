@@ -2,8 +2,8 @@
     "name": "aleromano89/test-composer-extra-map-m2",
     "description": "Test extra/map for Magento 2",
     "type": "magento2-module",
-    "version": "0.0.2",
-    "minimum-stability": "dev",
+    "version": "0.0.3",
+    "minimum-stability": "alpha",
     "autoload": {
         "files": [
             "registration.php"
