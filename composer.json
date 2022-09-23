@@ -3,6 +3,11 @@
     "description": "Test extra/map for Magento 2",
     "type": "magento2-module",
     "version": "0.0.1",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    },
     "extra": {
         "map": [
             [
