@@ -1,0 +1,13 @@
+{
+    "name": "aleromano89/test-composer-extra-map-m2",
+    "description": "Test extra/map for Magento 2",
+    "type": "magento2-module",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Aleromano89/TestComposerExtraMapM2"
+            ]
+        ]
+    }
+}
